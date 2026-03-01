@@ -1,7 +1,7 @@
 Este repositório contém exercícios desenvolvidos para a disciplina de Arquitetura e Organização de Computadores (AOC).
 
 Os exercícios foram originalmente propostos pelo Professor Ricardo Satoshi na disciplina de Lógica de Programação, escritos em pseudocódigo.
-Posteriormente, o professor de AOC, Leandro Colevati solicitou que os mesmos exercícios fossem reescritos em Python.
+Posteriormente, o professor de SO, Leandro Colevati solicitou que os mesmos exercícios fossem reescritos em Python.
 
 1️⃣ Área do Quadrado
 
