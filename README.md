@@ -1,4 +1,4 @@
-Este repositório contém exercícios desenvolvidos para a disciplina de Arquitetura e Organização de Computadores (AOC).
+Este repositório contém exercícios desenvolvidos para a disciplina de Arquitetura e Sistemas Operacionais (SO).
 
 Os exercícios foram originalmente propostos pelo Professor Ricardo Satoshi na disciplina de Lógica de Programação, escritos em pseudocódigo.
 Posteriormente, o professor de SO, Leandro Colevati solicitou que os mesmos exercícios fossem reescritos em Python.
