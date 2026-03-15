@@ -1,0 +1,38 @@
+# 🔀 Exercícios – Estrutura de Decisão
+
+Exercícios utilizando **estruturas condicionais (if / else)** para resolução de problemas.
+
+O objetivo desta etapa é trabalhar tomada de decisão em algoritmos e validação de condições.
+
+---
+
+## 📌 Exercícios
+
+| Nº | Descrição |
+|----|----------|
+| 18 | Diferença entre maior e menor |
+| 19 | Maior valor |
+| 20 | Equação do 2º grau com validação |
+| 21 | Média e situação do aluno |
+| 22 | Ordem crescente |
+| 23 | Ordenação de quatro valores |
+| 24 | Divisível por 2 e 3 |
+| 25 | Duração de jogo |
+| 26 | Verificar múltiplo |
+| 27 | Velocidade média |
+| 28 | Cálculo de preço |
+| 29 | Tipo de investimento |
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- Python
+- Terminal                                
+
+---
+
+## 🎓 Contexto acadêmico
+
+Disciplina de Sistemas Operacionais  
+FATEC Zona Leste
