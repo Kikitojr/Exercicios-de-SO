@@ -1,0 +1,44 @@
+# 🔀 Exercícios – Procedimentos com parâmetros (Variáveis locais)
+
+Exercícios utilizando **procedimentos sem retorno com passagem de parâmetros**,
+com uso de **variáveis locais** e organização com `main()`.
+
+O objetivo desta etapa é praticar **modularização em Python**, utilizando
+funções com parâmetros em vez de variáveis globais.
+
+---
+
+## 📌 Exercícios
+
+| Nº | Descrição |
+|----|----------|
+| 27 | Velocidade média |
+| 28 | Cálculo de preço |
+| 29 | Tipo de investimento |
+
+---
+
+## ⚙️ Regras utilizadas
+
+- Procedimentos sem retorno (`def`)
+- Com passagem de parâmetros
+- Uso de variáveis locais
+- Sem uso de `global`
+- Organização com `main()`
+- Modularização do código
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- Python 3
+- Docker
+- Linux / Xubuntu
+- Terminal
+
+---
+
+## 🎓 Contexto acadêmico
+
+Disciplina de Sistemas Operacionais  
+FATEC Zona Leste
